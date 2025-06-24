@@ -372,6 +372,7 @@ abstract class HTML_QuickForm2_Container extends HTML_QuickForm2_Node
     *
     * @return    HTML_QuickForm2_ContainerIterator
     */
+    #[\ReturnTypeWillChange]
     public function getIterator()
     {
         return new HTML_QuickForm2_ContainerIterator($this);
