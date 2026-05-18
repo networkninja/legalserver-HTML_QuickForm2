@@ -1,3 +1,3 @@
 Owners:
-mberding
+jon snell
 deanna
